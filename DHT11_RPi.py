@@ -1,5 +1,6 @@
 # Get Humidiity & Temperature from DHT11
 # Prints Temperature & Humidity rapidly after intervals of 1 sec
+# Needs Adafruit DHT11 Library. Get it Here - https://github.com/adafruit/Adafruit_Python_DHT
 # Samiran Das - github.com/samiran-das
 
 import sys
