@@ -14,4 +14,4 @@ while True:
     print 'Temp: {0:0.1f} C  Humidity: {1:0.1f} %'.format(temperature, humidity)
     time.sleep(1)
     
-    # End of Code
+    # End of code
